@@ -2,7 +2,7 @@
 
 Conference | WebSite | City | Country | Date
 ---------- | ------- | ---- | ------- | ----
-Symfony Meetup |https://www.meetup.com/Symfoniacs/||| каждые 2-3 месяца
+Symfony Meetup |https://www.meetup.com/Symfoniacs/|Moscow|RF| каждые 2-3 месяца
 Drupal Talks #6|https://dou.ua/calendar/18127/||| 26 октября
 ZDay: Ф’Yii’лософия. Миграции и инсталляции|https://dou.ua/calendar/18106/|||
 DevConf |https://devconf.ru/ru||| прошло
