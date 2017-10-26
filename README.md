@@ -3,6 +3,9 @@
 Conference | WebSite | City | Country | Date
 ---------- | ------- | ---- | ------- | ----
 Symfony Meetup |https://www.meetup.com/Symfoniacs/|Moscow|RF| каждые 2-3 месяца
+Superjob PHP-meetup|https://www.meetup.com/Moscow-PHP-Meetup/||| прошло
+Russia Laravel Meetup|https://www.meetup.com/Russia-Laravel-Meetup/|||
+Russian Application Performance Management Group|https://www.meetup.com/Russian-Application-Performance-Management-Group/|||
 Drupal Talks #6|https://dou.ua/calendar/18127/||| 26 октября
 ZDay: Ф’Yii’лософия. Миграции и инсталляции|https://dou.ua/calendar/18106/|||
 DevConf |https://devconf.ru/ru||| прошло
