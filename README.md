@@ -2,12 +2,12 @@
 
 Conference | WebSite | City | Country | Date
 ---------- | ------- | ---- | ------- | ----
+Symfony Meetup |https://www.meetup.com/Symfoniacs/||| каждые 2-3 месяца
 Drupal Talks #6|https://dou.ua/calendar/18127/||| 26 октября
 ZDay: Ф’Yii’лософия. Миграции и инсталляции|https://dou.ua/calendar/18106/|||
-DevConf ||||
-Highload
-RIT ||||
-Symfony Meetup ||||
+DevConf |https://devconf.ru/ru||| прошло
+Highload|||| в ноябре
+RIT |||| прошло
 PHP SouthCoast | http://2017.phpsouthcoast.co.uk | Portsmouth | UK | 18/07
 Laracon US | http://laracon.us | Luisville, KY | US | 11-12/08
 NorthEastPHP | http://2017.northeastphp.org | Boston, MA | US | 22-23/08
